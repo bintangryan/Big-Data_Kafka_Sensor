@@ -1,3 +1,6 @@
+<h3>BINTANG RYAN WARDANA - 5027221022</h3>
+<h3>NICHOLAS MARCO WEINANDRA - 5027221042</h3>
+
 Berikut adalah dokumentasi program producer-suhu.py :
 
 ![image](https://github.com/user-attachments/assets/73381838-d621-4e8b-9520-3c59f9a8d79f)
